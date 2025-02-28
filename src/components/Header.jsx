@@ -7,7 +7,7 @@ function Header() {
         <div>
           <img
             className="w-[43px] h-[52px] md:w-[50px] md:h-[60px] lg:w-[55px] lg:h-[64px]"
-            src="src\assets\chef-icon.svg"
+            src="chef-icon.svg"
             alt=""
           />
         </div>
